@@ -1,4 +1,6 @@
-const array = [];
-for (int i = 0; i < 25; i++) {
+function forLoop(array) {
+  for (int i = 0; i < 25; i++) {
+    array.append()
+  }
   
 }
